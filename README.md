@@ -1,16 +1,17 @@
-### Hi there 👋
+### ***Hello world, Hussain here*** 👋
 
-<!--
-**hsm59/hsm59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I make android apps while trying to keep up with the latest trends in tech. I occasionally speak at [GDG MAD](https://gdg.community.dev/gdg-mad/) and write on [Medium](https://mukadam59.medium.com/). 
 
-Here are some ideas to get you started:
+You can reach me through the following links - 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="Personal Website" width="26px" src="https://github.com/hsm59/hsm59.github.io/blob/master/favicon.png" />][personalwebsite]
+[<img align="left" alt="Stack Overflow" width="26px" src="https://hsm59.github.io/assets/so-logo.svg" />][stackoverflow]
+[<img align="left" alt="LinkedIn" width="26px" src="https://hsm59.github.io/assets/linkedin-logo.svg" />][linkedin]
+[<img align="left" alt="Medium" width="26px" src="https://hsm59.github.io/assets/medium-logo.svg" />][medium]
+[<img align="left" alt="Twitter" width="26px" src="https://hsm59.github.io/assets/twitter-logo-button.svg" />][twitter]
+
+[personalwebsite]: https://hsm59.github.io/
+[stackoverflow]: https://stackoverflow.com/users/1992823/hsm59
+[linkedin]: https://www.linkedin.com/in/mukadam59/
+[medium]: https://mukadam59.medium.com/
+[twitter]: https://twitter.com/HSM59

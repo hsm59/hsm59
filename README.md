@@ -1,6 +1,6 @@
 ### ***Hello world, Hussain here*** 👋
 
-I make android apps while trying to keep up with the latest trends in tech. I occasionally speak at [GDG MAD](https://gdg.community.dev/gdg-mad/) and write on [Medium](https://mukadam59.medium.com/). 
+Mobile apps developer by day, non-fiction reader by night, weaving code and knowledge into captivating experiences. I occasionally speak at [GDG MAD](https://gdg.community.dev/gdg-mad/) and write on [Medium](https://mukadam59.medium.com/). 
 
 You can reach me through the following links - 
 
